@@ -6,7 +6,7 @@ This repository host my Tableau projects and dashboards, providing valuable insi
 # Project Structure
 
 The reporsitory is organized with a structure for each Tableau project: 
-1. project_name.twb: Tableay wirjbiij fukle cibtaububg tge dashboard.
+1. project_name.twb: Tableau workbook file containing the dashboard.
 2. data.csv or data.xlsx: The dataset used for analysis
 3. README.md: Information about the project
 
