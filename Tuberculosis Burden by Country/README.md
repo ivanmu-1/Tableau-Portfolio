@@ -1,6 +1,8 @@
 
 Click here For Tableau DashBoard: [Tubercuosis Burden by Countries & Regions](https://public.tableau.com/app/profile/ivan.mu6616/viz/TBCountry/Dashboard1#1)
 
+<img width="1769" alt="Image" src="https://github.com/user-attachments/assets/c9497a63-33e6-43ed-b472-71815a001271" />
+
 # Project Description
 
 This project involved developing an interactive Tableau dashboard to visualize and analyze global Tuberculosis (TB) burden, death rates, and case detection metrics. The key objectives were to:
