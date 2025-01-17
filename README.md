@@ -1,5 +1,5 @@
 # Tableau Dashboard Repository
-
+![Image](https://github.com/user-attachments/assets/3c8f1d22-16d1-4824-b3a5-ed33cb067e64)
 # Introduction
 This repository host my Tableau projects and dashboards, providing valuable insights into diverse datasets.
 
