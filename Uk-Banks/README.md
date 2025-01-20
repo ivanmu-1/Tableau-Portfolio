@@ -1,6 +1,7 @@
 Click here For Tableau DashBoard: [UK Banks](https://public.tableau.com/app/profile/ivan.mu6616/viz/UK-Banks_17374034969010/Dashboard1)
 
 <img width="1907" alt="Image" src="https://github.com/user-attachments/assets/c7ce6ee3-ba81-452b-982c-740b75eae22a" />
+
 # Project Description
 
 This project involved developing an interactive Tableau dashboard to visualize and analyze customer demographics and financial data for UK Banks. The key objectives were to:
