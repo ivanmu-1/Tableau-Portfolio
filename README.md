@@ -11,7 +11,7 @@ The reporsitory is organized with a structure for each Tableau project:
 2. data.csv or data.xlsx: The dataset used for analysis
 3. README.md: Information about the project
 
-# Analyzing specific Tableau Project
+# Analyzing an Specific Tableau Project
 To explore specific Tableau project, follow these steps:
 1. Navigate to a project folder you are interested in.
 2. Open the project_name.twb file using Tableau Desktop to interact with the dashboard and explore the analysis
