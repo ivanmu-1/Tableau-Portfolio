@@ -1,5 +1,7 @@
 Click here For Tableau DashBoard: [Airbnb Booking Insights](https://public.tableau.com/app/profile/ivan.mu6616/viz/Airbnb_17380150594670/Dashboard1)
 
+<img width="1910" alt="Image" src="https://github.com/user-attachments/assets/08c77800-d815-4634-972d-c33d1de09306" />
+
 # Project Description
 
 This project involved creating an interactive Tableau dashboard to visualize and analyze Airbnb booking data across New York City's boroughs. The key objectives were to:
