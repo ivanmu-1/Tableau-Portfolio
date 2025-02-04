@@ -2,22 +2,32 @@ Click here For Tableau DashBoard: [British Airways Review](https://public.tablea
 
 <img width="1304" alt="Image" src="https://github.com/user-attachments/assets/b8632bec-d38a-483d-b82d-8c39f4a595e7" />
 
-# Project Description
+## ✈️ British Airways Review Analysis Dashboard (Tableau)
 
-This project involved developing an interactive Tableau dashboard to visualize and analyze British Airways' customer reviews and ratings across various categories and dimensions. The key objectives were to:
+This project features an interactive British Airways Review Analysis Dashboard, built using Tableau, to analyze and visualize customer feedback across different metrics, aircraft types, and regions.
+# 🔹 Project Objectives:
 
-## Provide actionable insights into customer feedback across different services
-- Visualize the average ratings for key service metrics such as cabin staff, food, ground service, entertainment, seat comfort, and value for money.
-- Track trends in overall ratings over time, helping to identify significant shifts in customer satisfaction.
-- Compare ratings and review volumes by aircraft type to highlight the performance of specific fleets.
-- Analyze the geographical distribution of reviews and ratings, identifying areas with the highest and lowest customer satisfaction.
+* **Analyze customer ratings across various categories** such as cabin service, food, ground service, and entertainment.
+* **Track review trends over time** to understand fluctuations in customer satisfaction.
+* **Compare aircraft performance** by analyzing average ratings per aircraft model.
+* **Explore geographical trends** using a heatmap to visualize ratings by country.
+* **Enable interactive exploration** through filters for traveler type, seat class, aircraft, and region.
 
-The dashboard integrates British Airways' customer review data, enabling stakeholders to interactively explore key insights through dynamic filters and parameters
+# 📊 Key Visualizations:
 
-# Key visualizations include:
--  Average Overall Rating Trends by Month: Tracks customer satisfaction over time.
--  Ratings by Aircraft Type: Highlights differences in performance and review volumes across various aircraft.
--  Geographical Heatmap of Ratings: Displays the distribution of customer satisfaction across countries.
--  Interactive Filters and Parameters: Enables detailed analysis by traveler type, seat class, and specific metrics like food, entertainment, and cabin staff service.
+* **Average Rating Over Time** – A time-series analysis of customer satisfaction trends from 2016 to 2023.
+* **Ratings by Aircraft** – Breakdown of customer ratings per aircraft model.
+* **Review Volume vs. Ratings** – Insights into how review volume correlates with customer satisfaction.
+* **Geospatial Review Analysis** – A world map showing country-specific rating trends.
 
-This dashboard aims to provide insights for British Airways’ management and stakeholders to better understand customer feedback, improve service quality, and enhance overall customer satisfaction.
+# 🛠️ Tools & Technologies:
+
+* **Tableau** – For interactive data visualization and dashboard creation.
+* **Data Cleaning & Transformation** – Processed using Tableau’s data tools.
+
+# 🎯 Insights & Business Impact:
+
+* Identifies areas for service improvement based on historical trends.
+* Helps British Airways understand which aircraft models receive better reviews for future fleet optimizations.
+* Assists in tailoring customer service strategies for different traveler types and seat classes.
+* Provides valuable insights for marketing and operational decision-making in the airline industry.
