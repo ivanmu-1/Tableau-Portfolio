@@ -18,5 +18,5 @@ To explore specific Tableau project, follow these steps:
 3. Examine the data.csv or data.xlsx file to understand the dataset used in the project
 4. Explore the README.md for project details, analysis, and context
 
--
+
 ## Projects: 
