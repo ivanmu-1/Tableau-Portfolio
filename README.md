@@ -1,6 +1,6 @@
 # Tableau Dashboard Repository
  <p align="center">
-  <img width="700" height="370" src="https://github.com/user-attachments/assets/3c8f1d22-16d1-4824-b3a5-ed33cb067e64">
+  <img width="600" height="370" src="https://github.com/user-attachments/assets/3c8f1d22-16d1-4824-b3a5-ed33cb067e64">
 
 # Introduction
 Hello! Welcome to my Tableau Portfolio! This repository showcases my Tableau projects and dashboards, offering valuable insights through the analysis of diverse datasets. Feel free to explore and discover my journey into data visualization and the insights I've uncovered along the way. :grin:
