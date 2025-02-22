@@ -6,7 +6,7 @@ Hello! Welcome to my Tableau Portfolio! This repository showcases my Tableau pro
 
 ## Project Structure 
 
-The reporsitory is organized with a structure for each Tableau project: 
+The repository is organized with a structure for each Tableau project: 
 1. project_name.twb: Tableau workbook file containing the dashboard.
 2. data.csv or data.xlsx: The dataset used for analysis
 3. README.md: Information about the project
@@ -18,5 +18,9 @@ To explore specific Tableau project, follow these steps:
 3. Examine the data.csv or data.xlsx file to understand the dataset used in the project
 4. Explore the README.md for project details, analysis, and context
 
-
 ## Projects: 
+
+* [NYC Airbnb Booking Dashboard](https://github.com/ivanmu-1/Tableau-Portfolio/tree/main/Airbnb%20Booking%20Insights)
+* [Tuberculosis Burden by Countries Dashboard](https://github.com/ivanmu-1/Tableau-Portfolio/tree/main/Tuberculosis%20Burden%20by%20Country)
+* [British Airways Reviews Dashboard](https://github.com/ivanmu-1/Tableau-Portfolio/tree/main/British%20Airways%20Review)
+* [UK Banks analytics Dashboard](https://github.com/ivanmu-1/Tableau-Portfolio/tree/main/UK%20Bank%20Analytics)
