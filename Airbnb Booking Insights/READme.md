@@ -2,10 +2,10 @@ Click here For Tableau DashBoard: [Airbnb Booking Insights](https://public.table
 
 
 
-# 🏠 Airbnb Booking Analysis Dashboard (Tableau)
+# Airbnb Booking Analysis Dashboard (Tableau)
 
 This project presents an interactive Tableau dashboard that visualizes and analyzes Airbnb booking trends across New York City's boroughs. It provides valuable insights into pricing strategies, booking patterns, and host performance, helping stakeholders make informed decisions.
-## 🔹 Project Objectives:
+### Project Objectives:
 
 * **Analyze borough-specific trends** in Airbnb bookings, reviews, and pricing.
 * **Break down room type distributions** and their impact on reviews and availability.
@@ -13,7 +13,7 @@ This project presents an interactive Tableau dashboard that visualizes and analy
 * **Examine monthly and seasonal booking trends** to uncover peak and low-demand periods.
 * **Explore neighborhood-level price variations** using interactive filters and heatmaps.
 
-## 📊 Key Visualizations:
+### Key Visualizations:
 
 * **Total Available Bookings by Boroughs** – A segmented view of bookings based on borough and room type.
 * **Average Numbers of Reviews by Room Type** – Trends in review patterns across different boroughs.
@@ -23,12 +23,12 @@ This project presents an interactive Tableau dashboard that visualizes and analy
 * **Geographical Heatmap** – Visualizing neighborhood-level price distribution.
 * **Neighborhood-Level Price Breakdown** – A detailed comparison of average prices across specific NYC neighborhoods.
 
-## 🛠️ Tools & Technologies:
+### Tools & Technologies:
 
 * **Tableau** – For creating interactive dashboards and data visualizations.
 * **Airbnb Dataset** – Cleaned and transformed to extract key insights.
 
-## 🎯 Insights & Business Impact:
+### Insights & Business Impact:
 
 * Helps Airbnb hosts optimize pricing strategies based on borough-specific demand.
 * Assists guests in identifying affordable stays based on seasonal trends and neighborhood pricing.
