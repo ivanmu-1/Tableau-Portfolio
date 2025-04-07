@@ -6,7 +6,7 @@ Click here For Tableau DashBoard: [UK Banks](https://public.tableau.com/app/prof
 
 This project involved developing an interactive Tableau dashboard to visualize and analyze customer demographics and financial data for UK Banks. The key objectives were to:
 
-## Visualize the regional distribution of customers and their finanical metrics 
+### Visualize the regional distribution of customers and their finanical metrics 
 - Analyze the distribution of customer account balances
 - Explore age distribution trends across various regions in the UK
 - Examine customer segmentation by job classification and gender
@@ -14,7 +14,7 @@ This project involved developing an interactive Tableau dashboard to visualize a
 
 The The dashboard integrates data from UK banks, enabling users to explore key metrics interactively using filters for region, balance groups, and age groups.
 
-# Key visualizations include:
+### Key visualizations include:
 -  UK Map: Regional customer distribution with numerical breakdowns across England, Scotland, Wales, and Northern Ireland.
 -  Distribution by Balance: A bar chart showing the percentage of customers across different account balance ranges.
 -  Distribution by Age: A histogram highlighting age-based customer demographics.
