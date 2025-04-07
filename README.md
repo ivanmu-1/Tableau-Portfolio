@@ -8,9 +8,9 @@ Hello! Welcome to my Tableau Portfolio! This repository showcases my Tableau pro
 ## Project Structure 
 
 The repository is organized with a structure for each Tableau project: 
-1. project_name.twb: Tableau workbook file containing the dashboard.
-2. data.csv or data.xlsx: The dataset used for analysis
-3. README.md: Information about the project
+1. ```project_name.twb```: Tableau workbook file containing the dashboard.
+2. ```data.csv or data.xlsx```: The dataset used for analysis
+3. ```README.md```: Information about the project
 
 ## Analyzing an Specific Tableau Project
 To explore specific Tableau project, follow these steps:
