@@ -15,9 +15,9 @@ The repository is organized with a structure for each Tableau project:
 ## Analyzing an Specific Tableau Project
 To explore specific Tableau project, follow these steps:
 1. Navigate to a project folder you are interested in.
-2. Open the project_name.twb file using Tableau Desktop to interact with the dashboard and explore the analysis
-3. Examine the data.csv or data.xlsx file to understand the dataset used in the project
-4. Explore the README.md for project details, analysis, and context
+2. Open the ```project_name.twb``` file using Tableau Desktop to interact with the dashboard and explore the analysis
+3. Examine the ```data.csv``` or ```data.xlsx``` file to understand the dataset used in the project
+4. Explore the ```README.md``` for project details, analysis, and context
 
 ## Projects: 
 
